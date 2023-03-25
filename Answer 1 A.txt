@@ -1,0 +1,5 @@
+Class in python is like blueprint of the whole program which contains all the objects,functions,loops 
+which are required to run a program
+
+Objects are the real life entities that are used in programs or used for storing data for ex :
+in the following program the obj is the object that contains all the data and that data can be used anywhere in the program 
